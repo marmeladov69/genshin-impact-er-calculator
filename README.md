@@ -14,7 +14,7 @@
 - Considering R5 Fav weapons, each proccing about 3 times.
 - Each Fav proc gives 3 clear particles.
 - Fav is the only source of clear particles.
-- Considering average particles per second for particle amount.
+- Considering average particles production for particle amount.
 
 #### Resources:
 Refer to the following spreadsheet for information on particle generation per character: https://docs.google.com/spreadsheets/d/e/2PACX-1vSCDeEemUfJtimE6M7QmuE4a7u6XiCoqf_dod2lygUYEhtEZakLejiPbHfBYbDB0LW4T_SeuKEUAUk5/pubhtml# 
